@@ -1,0 +1,11 @@
+%%FirstName%% %%LastName%%, %%Title%%
+%%Department%%
+Fabrikam, Inc.
+%%Email%%
+%%PhoneNumber%%
+
+Comunicado: Estaremos em recesso no período de 24/12/%%Year%% a %%Weekday(#1/1/%%Year+1%%#,1,"0$2/0$1/$3")%%,
+retomando as atividades normalmente no dia %%Weekday(#1/1/%%Year+1%%#,2,"0$2/0$1/$3")%%.
+
+Announcement: We will be closed from 12/24/%%Year%% to %%Weekday(#1/1/%%Year+1%%#,1,"0$2/0$1/$3")%%,
+resuming normal activities on %%Weekday(#1/1/%%Year+1%%#,2,"0$2/0$1/$3")%%.

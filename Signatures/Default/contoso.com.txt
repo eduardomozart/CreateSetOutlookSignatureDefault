@@ -1,0 +1,5 @@
+%%FirstName%% %%LastName%%, %%Title%%
+%%Department%%
+Contoso Corp.
+%%Email%%
+(51) 2112-%%TelephoneNumber%%

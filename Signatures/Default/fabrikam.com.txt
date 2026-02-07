@@ -1,0 +1,5 @@
+%%FirstName%% %%LastName%%, %%Title%%
+%%Department%%
+Fabrikam, Inc.
+%%Email%%
+(51) 2112-%%TelephoneNumber%%
