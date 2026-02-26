@@ -1,4 +1,4 @@
-# CreateSetOutlookSignatureDefault
+# <img src="https://webapps1.chicago.gov/cdn/FontAwesome-5.13.0/svgs/solid/pen-nib.svg" width="32" height="32"> CreateSetOutlookSignatureDefault
 
 This script is designed to automatically generate and set Outlook Classic signatures for users. It is context-aware, meaning the signature content changes based on AD user information and the time of year (e.g., a standard signature vs. a Christmas/Holiday signature).
 
