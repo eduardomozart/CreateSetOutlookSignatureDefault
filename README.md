@@ -29,6 +29,4 @@ Refer to [Wiki](https://github.com/eduardomozart/CreateSetOutlookSignatureDefaul
 
 ## Useful links
 
-<WRAP center round tip 60%>
 Você encontra modelos gratuitos de assinaturas de e-mail em https://www.mail-signatures.com/
-</WRAP>
